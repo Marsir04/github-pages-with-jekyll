@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Marsir's Secret Base"
 ---
 
-I'm glad you are here. I plan to talk about ...
+A little website to record my life QWQ ~
